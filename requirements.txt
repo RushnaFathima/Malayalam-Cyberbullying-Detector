@@ -4,3 +4,4 @@ emoji
 joblib
 pandas
 numpy
+google-api-python-client
