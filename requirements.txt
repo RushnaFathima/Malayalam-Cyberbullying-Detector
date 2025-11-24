@@ -1,0 +1,6 @@
+﻿streamlit
+scikit-learn
+emoji
+joblib
+pandas
+numpy
